@@ -1,0 +1,10 @@
+/.metadata/
+.settings
+config.*
+.classpath
+.project
+bin
+.metadata
+.log
+*.log
+ignore
